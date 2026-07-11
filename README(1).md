@@ -36,27 +36,47 @@
 
 # 🚀 Featured Projects
 
-## Intelligent Resume Screening System
+<table>
+<tr>
+<td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMukul04&repo=AI-Resume-Screening-System&theme=nord)](https://github.com/SMukul04/AI-Resume-Screening-System)
+### 🚀 AI Resume Screening System
 
-| Layer | Technology |
-|------|-------------|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | Flask |
-| AI | Sentence Transformers, TF-IDF, Cosine Similarity, Scikit-learn |
-| Database | SQLite / MySQL |
+AI-powered resume screening using NLP and semantic similarity.
 
-## AI Image Caption Generator
+**Tech**
+- Python
+- Flask
+- Sentence Transformers
+- TF-IDF
+- Scikit-learn
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMukul04&repo=AI-Image-Caption-Generator&theme=nord)](https://github.com/SMukul04/AI-Image-Caption-Generator)
+<a href="https://github.com/SMukul04/AI-Resume-Screening-System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
-| Layer | Technology |
-|------|-------------|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | Flask |
-| AI | PyTorch, Hugging Face Transformers, BLIP, OpenCV |
-| GPU | CUDA |
+</td>
+
+<td width="50%">
+
+### 🖼️ AI Image Caption Generator
+
+Deep learning image captioning using BLIP and PyTorch.
+
+**Tech**
+- PyTorch
+- BLIP
+- CUDA
+- Flask
+- OpenCV
+
+<a href="https://github.com/SMukul04/AI-Image-Caption-Generator">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
