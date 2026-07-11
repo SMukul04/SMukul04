@@ -38,7 +38,7 @@
 
 ## Intelligent Resume Screening System
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMukul04&repo=Intelligent-Resume-Screening-System&theme=nord)](https://github.com/SMukul04/Intelligent-Resume-Screening-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMukul04&repo=AI-Resume-Screening-System&theme=nord)](https://github.com/SMukul04/AI-Resume-Screening-System)
 
 | Layer | Technology |
 |------|-------------|
