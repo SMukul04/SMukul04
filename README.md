@@ -120,7 +120,7 @@ Python • PyTorch • Scikit-learn • NumPy • Pandas • OpenCV • Hugging 
 
 <p>
 <a href="https://www.linkedin.com/in/mukul-singh-11b71030b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:smukul9876@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="smukul9876@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
 <a href="https://leetcode.com/u/Mukul_Singh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/></a>
 </p>
 
