@@ -96,15 +96,6 @@ Deep learning image captioning using BLIP and PyTorch.
 </a>
 
 </td>
-<td width="50%">
-### 💻 More Projects
-Explore my GitHub profile for more projects and experiments.
-
-<a href="https://github.com/SMukul04">
-<img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
 </tr>
 </table>
 
@@ -147,11 +138,8 @@ WhisperFlow (Speech-to-Text) • REST APIs • Uvicorn • Jinja2 • Pytest
 
 ![](https://github-profile-trophy.vercel.app/?username=SMukul04&theme=nord&no-frame=true&no-bg=true&row=1)
 
-<!-- Recent contribution activity (last 30 days) -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=SMukul04&theme=nord&days=30&area=true)
-
-<!-- GitHub contribution calendar -->
-![](https://ghchart.rshah.org/SMukul04)
+<!-- Contribution line graph: date on X-axis, number of contributions on Y-axis (last 30 days) -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=SMukul04&theme=nord&days=30&area=false&custom_title=Daily%20GitHub%20Contributions%20(Last%2030%20Days)&hide_border=true)
 
 ---
 
