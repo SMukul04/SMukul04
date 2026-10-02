@@ -25,6 +25,7 @@
 💻 Building intelligent web applications using **Python, Flask, React and PyTorch**
 
 🚀 Featured Projects
+- SilentVoice — Real-Time Indian Sign Language Recognition
 - Intelligent Resume Screening System
 - AI Image Caption Generator
 
@@ -38,6 +39,25 @@
 
 <table>
 <tr>
+<td width="50%">
+
+### 🗣️ SilentVoice — Two-Way Communication Assistant
+
+An assistive communication project designed to support two-way interaction using speech and text-based workflows.
+
+**Tech**
+- Python
+- FastAPI & Uvicorn
+- WhisperFlow (Speech-to-Text)
+- MediaPipe & OpenCV
+- TensorFlow / Keras (LSTM)
+- HTML, CSS & JavaScript
+
+<a href="https://github.com/SMukul04/SilentVoice">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
 <td width="50%">
 
 ### 🚀 AI Resume Screening System
@@ -56,7 +76,8 @@ AI-powered resume screening using NLP and semantic similarity.
 </a>
 
 </td>
-
+</tr>
+<tr>
 <td width="50%">
 
 ### 🖼️ AI Image Caption Generator
@@ -75,8 +96,19 @@ Deep learning image captioning using BLIP and PyTorch.
 </a>
 
 </td>
+<td width="50%">
+### 💻 More Projects
+Explore my GitHub profile for more projects and experiments.
+
+<a href="https://github.com/SMukul04">
+<img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
 </tr>
 </table>
+
+
 
 ---
 
@@ -94,11 +126,14 @@ Deep learning image captioning using BLIP and PyTorch.
 
 ### Backend & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,git,github,vscode,postman"/>
 </p>
 
-### AI / ML
-Python • PyTorch • Scikit-learn • NumPy • Pandas • OpenCV • Hugging Face • Sentence Transformers • BLIP
+### AI / ML & Computer Vision
+Python • TensorFlow • Keras • PyTorch • Scikit-learn • NumPy • Pandas • OpenCV • MediaPipe • Hugging Face • Sentence Transformers • BLIP • LSTM
+
+### Speech & Communication
+WhisperFlow (Speech-to-Text) • REST APIs • Uvicorn • Jinja2 • Pytest
 
 ---
 
@@ -112,7 +147,11 @@ Python • PyTorch • Scikit-learn • NumPy • Pandas • OpenCV • Hugging 
 
 ![](https://github-profile-trophy.vercel.app/?username=SMukul04&theme=nord&no-frame=true&no-bg=true&row=1)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=SMukul04&theme=nord)
+<!-- Recent contribution activity (last 30 days) -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=SMukul04&theme=nord&days=30&area=true)
+
+<!-- GitHub contribution calendar -->
+![](https://ghchart.rshah.org/SMukul04)
 
 ---
 
